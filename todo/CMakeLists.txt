@@ -65,16 +65,16 @@ set(TREMOLO_PLUGIN_NAME "TODO: set your plugin name")
 juce_add_plugin(
   TremoloCoursePlugin
   PRODUCT_NAME
-    ${TREMOLO_PLUGIN_NAME}
+    ${TREMODOLO_PLUGIN_NAME}
   VERSION
-    # TODO: add version
+ 0.0.0
   COMPANY_NAME
-    # TODO: add company
+        "HeapsOfBleeps"
   PLUGIN_MANUFACTURER_CODE
-    # TODO: add plugin manufacturer code
+Hobp
   PLUGIN_CODE
-    # TODO: add plugin code
-  FORMATS
+Hbtr
+        FORMATS
     Standalone
     AU
     VST3
