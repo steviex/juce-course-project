@@ -65,7 +65,7 @@ set(TREMOLO_PLUGIN_NAME "TODO: set your plugin name")
 juce_add_plugin(
   TremoloCoursePlugin
   PRODUCT_NAME
-    ${TREMODOLO_PLUGIN_NAME}
+    ${TREMOLODO_PLUGIN_NAME}
   VERSION
  0.0.0
   COMPANY_NAME
