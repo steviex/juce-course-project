@@ -73,7 +73,7 @@ juce_add_plugin(
   PLUGIN_MANUFACTURER_CODE
 Hobp
   PLUGIN_CODE
-Hbtr
+Hbto
         FORMATS
     Standalone
     AU
